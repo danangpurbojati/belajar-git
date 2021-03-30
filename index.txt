@@ -1,1 +1,2 @@
 ini dari commit pertama bos
+menambajlam index dan commit kedua
