@@ -1,1 +1,2 @@
 delete contact commit pertama
+delete contact commit kedua
