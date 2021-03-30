@@ -1,2 +1,2 @@
-menambahkan branch contact pertama
-menambahkan branch contact kedua
+delete contact commit pertama
+delete contact commit kedua
